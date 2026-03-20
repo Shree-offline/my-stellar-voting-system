@@ -55,6 +55,10 @@ Contract Address:
 
 CB5UGPIH7JFGCP6F2ZCMEKPQQFZS6QED2RQHLIOPHH6TCDLACS2A5WND
 
+Contract Link:
+
+https://stellar.expert/explorer/testnet/contract/CB5UGPIH7JFGCP6F2ZCMEKPQQFZS6QED2RQHLIOPHH6TCDLACS2A5WND
+
 📚 Use Cases
 
 College or school elections
