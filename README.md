@@ -68,3 +68,7 @@ Learning blockchain & smart contracts
 📄 License
 
 This project is open-source and available under the MIT License.
+
+
+<img width="1901" height="1024" alt="image" src="https://github.com/user-attachments/assets/68031dea-838b-4a3d-8c40-a2a7cdd6c27d" />
+
