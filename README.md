@@ -77,6 +77,7 @@ This project is open-source and available under the MIT License.
 <img width="1901" height="1024" alt="image" src="https://github.com/user-attachments/assets/68031dea-838b-4a3d-8c40-a2a7cdd6c27d" />
 
 
-<img width="1855" height="871" alt="image" src="https://github.com/user-attachments/assets/8a993eda-f008-421b-a2e2-14e16d98b73d" />
+<img width="1857" height="880" alt="image" src="https://github.com/user-attachments/assets/f8b87eae-8e17-49b0-9991-ee951ea695f0" />
+
 
 
